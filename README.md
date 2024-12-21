@@ -42,7 +42,7 @@ The **Microtransaction Payment DApp** enables seamless small Ether transfers bet
   Chain ID: ```1337```  
   Import an account from Ganache into MetaMask.  
   Connect MetaMask to Your DApp: When you load the DApp, click "Connect Wallet" to allow MetaMask to connect to your Ethereum account.  
-- Open the app in your browser (usually at http://localhost:3000).
+- Open the app in your browser (usually at http://localhost:3000).  
   Connect MetaMask: Click "Connect Wallet" and choose an account.  
   Send Payment: Enter the recipient's address and the amount of Ether to send. Click "Send Payment."  
   View Transaction Status: After the transaction is completed, the transaction hash and status will appear on the screen.  

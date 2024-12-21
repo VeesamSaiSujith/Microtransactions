@@ -17,6 +17,6 @@ The **Microtransaction Payment DApp** enables seamless small Ether transfers bet
 - Truffle Suite (for smart contract development)
 - MetaMask extension (for browser-based Ethereum wallet)
 
-  ##Steps to implement
-  - Create a directory
-    '''mkdir Microtransactions'''
+##Steps to implement
+- Create a directory
+  '''mkdir Microtransactions'''

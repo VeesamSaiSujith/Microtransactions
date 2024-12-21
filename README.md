@@ -10,9 +10,13 @@ The **Microtransaction Payment DApp** enables seamless small Ether transfers bet
 - A user-friendly frontend powered by React.js.
 - Compatible with Ganache, MetaMask, and Truffle Suite for local development.
 
-  ## Prerequisites
+## Prerequisites
 - Node.js (version18 recommended)
 - npm or Yarn package manager
 - Ganache (for a local Ethereum blockchain)
 - Truffle Suite (for smart contract development)
 - MetaMask extension (for browser-based Ethereum wallet)
+
+  ##Steps to implement
+  - Create a directory
+    ('''mkdir Microtransactions''')

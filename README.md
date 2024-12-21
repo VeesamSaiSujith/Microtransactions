@@ -19,4 +19,4 @@ The **Microtransaction Payment DApp** enables seamless small Ether transfers bet
 
 ##Steps to implement
 - Create a directory
-  '''mkdir Microtransactions'''
+  ```mkdir Microtransactions```
